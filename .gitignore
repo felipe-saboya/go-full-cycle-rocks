@@ -1,0 +1,6 @@
+# IDE
+/.idea
+/src/.idea
+
+# go_build*
+/go-full-cycle-rocks
